@@ -7,4 +7,5 @@ Yellow
 Green
 black
 Indigo
+Voilet
 This is the colors
