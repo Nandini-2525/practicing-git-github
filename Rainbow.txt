@@ -9,6 +9,5 @@ purple
 Green
 Black
 Unicorn 
-Indigo
 Voilet
 This is the colors and added the Unicrorn
