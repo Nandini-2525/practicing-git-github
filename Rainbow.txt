@@ -6,4 +6,5 @@ Orange
 Yellow
 Green
 black
+Indigo
 This is the colors
