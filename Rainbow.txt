@@ -1,11 +1,14 @@
-Rainbow
+Rainbow and Unicorn
 seven Color of rainbow
 
 Red
 Orange 
 Yellow
+pinkUpdate Rainbow.txt
+purple
 Green
 Black
+Unicorn 
 Indigo
 Voilet
-This is the colors
+This is the colors and added the Unicrorn
